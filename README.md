@@ -1,7 +1,7 @@
 # **Password Manager (Java Swing)**
 
 **Simple password manager built with Java Swing.**  
-**Passwords are encrypted using the Caesar cipher.**
+**Passwords are encrypted using the Caesar cipher.** <br>
 University project created for educational purposes.
 
 **Features:**  
