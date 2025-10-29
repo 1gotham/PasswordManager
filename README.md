@@ -2,7 +2,7 @@
 
 **Simple password manager built with Java Swing.**  
 **Passwords are encrypted using the Caesar cipher.**
-"University project created for educational purposes."
+University project created for educational purposes.
 
 **Features:**  
 - Add, view, and delete passwords  
